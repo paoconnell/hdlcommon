@@ -1,0 +1,22 @@
+#### Python ###
+__pycache__/
+*.py[cod]
+vunit_out/
+*.dat
+
+### Vivado ###
+.Xil/
+xgui/
+vivado*.jou
+vivado*.log
+*.ip_user_files/
+*.cache/
+*.hw/
+*.sim/
+*.srcs/
+*.runs/
+*.xpr
+component.xml
+
+### Git ###
+*.orig
